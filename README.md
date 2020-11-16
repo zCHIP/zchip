@@ -6,5 +6,5 @@ I'm Gennady Temnikov, a passionate DevOps Engineer.
 
 - :house: I live in San Francisco Bay Area
 - :man_technologist: I like Go(lang)
-- :robot: And kubernetes
-- :earth_africa: check out [my blog](https://medium.com/@zerochip)
+- :robot: And Kubernetes
+- :earth_africa: Check out [my blog](https://medium.com/@zerochip)
