@@ -2,9 +2,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zCHIP&show_icons=true">
 
-I'm Gennady Temnikov, a passionate DevOps Engineer.
+I'm Gennady Temnikov, a passionate Platform / DevOps Engineer.
 
 - :house: I live in San Francisco Bay Area
-- :man_technologist: I like Go(lang)
+- :man_technologist: I like Go(lang), TypeScript
 - :robot: And Kubernetes
-- :earth_africa: Check out [my blog](https://medium.com/@zerochip)
+- :earth_africa: Check out [my blog](https://medium.com/@zchip)
